@@ -82,3 +82,36 @@ I also saved a clean text version of these instructions you can download or shar
 
 
 Let me know if you want a shorter version, a version tailored specifically for Neocities, or any changes.
+**Netrunner Rising — Windows Download & Install Guide**
+
+Here’s a simple, step-by-step guide you can share with anyone who wants to download and run **NetrunnerRising.exe** on Windows.
+
+### Download Instructions
+
+1. **Download the file**  
+   Click the download link/button below to save `NetrunnerRising.exe` to your computer.  
+   (Recommended location: your **Downloads** folder or Desktop.)
+
+2. **Locate the file**  
+   Open **File Explorer** and go to the folder where the file was saved (usually `Downloads`).
+
+3. **Run the application**  
+   - Double-click **NetrunnerRising.exe**.  
+   - If Windows SmartScreen or antivirus shows a warning, click **More info** → **Run anyway** (this is normal for unsigned indie apps).
+
+4. **Play**  
+   The game should launch. No installation is required — it runs directly from the executable.
+
+### Tips
+
+- Keep the `.exe` file somewhere permanent if you want easy access later (or create a desktop shortcut by right-clicking → **Send to** → **Desktop**).
+- The game checks for updates from the official site: **netrunnerrising.neocities.org**.
+- Works on Windows 10 and Windows 11.
+
+---
+
+**Download the file here:**
+
+
+
+That’s everything needed. Just share this text + the file and people can get running in under a minute.
