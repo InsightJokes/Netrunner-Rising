@@ -46,3 +46,39 @@ Controls
   ```bash
   NR_WIDTH=1920 NR_HEIGHT=1080 ./launch.sh
  That’s the full process from the included `README.txt`. After the `install.sh` step it should appear ready to launch and add to Steam.# Netrunner-Rising
+**How to install Netrunner Rising on iPhone / iPad**
+
+This is a Progressive Web App (PWA), not an App Store app. You host the files online once, then use Safari’s “Add to Home Screen” so it runs fullscreen and works offline.
+
+### Fastest way (if the site is already live)
+1. Open **Safari** on your iPhone or iPad.
+2. Go to:  
+   `https://insightjokes.github.io/Netrunner-Rising/`
+3. Tap the **Share** button (square with the upward arrow).
+4. Tap **Add to Home Screen** → **Add**.
+5. Launch Netrunner from the new Home Screen icon. It runs fullscreen and works offline.
+
+### Host it yourself (recommended if the link above isn’t working)
+Unzip `NetrunnerRising-iOS-WebApp.zip` and upload **everything** (index.html, sw.js, manifest.webmanifest, icons/, fonts/) to one of these free hosts:
+
+**GitHub Pages**
+1. Upload the files to the root of `https://github.com/InsightJokes/Netrunner-Rising`
+2. Go to the repo → **Settings → Pages**
+3. Set Source to “Deploy from a branch”, Branch `main`, folder `/` (root)
+4. After a minute the game is live at the URL above. Then follow the Add to Home Screen steps.
+
+**Neocities** (you’ve used this before)
+1. Upload all the files to the root (or a subfolder) of your Neocities site.
+2. Open the resulting URL in Safari.
+3. Share → Add to Home Screen → Add.
+
+### Important notes
+- You **must** use Safari. Other browsers on iOS don’t support proper Add to Home Screen.
+- The Home Screen version keeps its own saves (separate from Safari and from the Android version).
+- To update later, just re-upload the new files to the same place and refresh (or remove + re-add) the Home Screen app.
+
+I also saved a clean text version of these instructions you can download or share:
+
+
+
+Let me know if you want a shorter version, a version tailored specifically for Neocities, or any changes.
