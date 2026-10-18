@@ -83,6 +83,7 @@ I also saved a clean text version of these instructions you can download or shar
 
 
 Let me know if you want a shorter version, a version tailored specifically for Neocities, or any changes.
+
 **Netrunner Rising — Windows Download & Install Guide**
 
 Here’s a simple, step-by-step guide you can share with anyone who wants to download and run
