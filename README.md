@@ -1,4 +1,4 @@
-**Here's how to install the `NetrunnerRising.apk` on your Android phone (Samsung Galaxy S24 / Android 16).**
+**Here's how to install the `NetrunnerRising.apk` on your Android phone / Android 16).**
  1. Download the APK
 Tap the file below to download it to your phone:
 (Alternatively, transfer it via USB, email, Google Drive, etc. if you already have it elsewhere.)
