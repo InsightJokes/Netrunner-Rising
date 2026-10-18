@@ -46,6 +46,7 @@ Controls
   ```bash
   NR_WIDTH=1920 NR_HEIGHT=1080 ./launch.sh
  That’s the full process from the included `README.txt`. After the `install.sh` step it should appear ready to launch and add to Steam.# Netrunner-Rising
+
 **How to install Netrunner Rising on iPhone / iPad**
 
 This is a Progressive Web App (PWA), not an App Store app. You host the files online once, then use Safari’s “Add to Home Screen” so it runs fullscreen and works offline.
